@@ -1,3 +1,5 @@
+- Nesta aplicação temos o conceito básico usando React js, para alguma informação especifica envie uma mensagem no linkedIn, abaixo algumas dependências, sendo elas instaladas globalmente, o uso foi feito apenas com npm, não usamos yarn, mas caso queira será necessário adicionar algumas novas atribuições em packetlock.json, contudo, gratidão Gama Academy, e Bruce assompra aqui! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
